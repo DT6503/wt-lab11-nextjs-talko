@@ -18,6 +18,11 @@ export default function Home() {
                             View Dishes
                         </Link>
                     </li>
+                    <li>
+                        <Link href="/contacts" style={{ color: 'white', backgroundColor: '#f0ad4e', padding: '10px 20px', borderRadius: '5px', textDecoration: 'none' }}>
+                            Contacts
+                        </Link>
+                    </li>
                 </ul>
             </nav>
         </main>
